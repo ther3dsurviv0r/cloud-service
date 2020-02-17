@@ -19,3 +19,4 @@ Put all the files in the appropriate folder.
 Password is "password". You can change it in upload.php
 
 Hope this helped you.
+Feel free to customise the files to suit your needs. I will be making this project better in the future by adding javascript and other fuctions like progress bar for starters.
