@@ -15,5 +15,7 @@ Put all the files in the appropriate folder.
 	-Search for "php.ini" file.
 	-Locate max_upload_size and increase the value to upload bigger files.
 	-Save the file and restart your appache service.
-	
+
+Password is "password". You can change it in upload.php
+
 Hope this helped you.
